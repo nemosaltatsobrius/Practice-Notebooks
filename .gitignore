@@ -1,0 +1,49 @@
+# Environments
+# More robust rules for virtual environments.
+# The leading slash ignores top-level folders.
+/venv/
+/myenv/
+/env/
+/virtual/
+/instance/
+# No leading slash ignores folders in any directory.
+venv/
+myenv/
+# The wildcard pattern ignores folders in subdirectories.
+*/venv/
+*/myenv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Data files
+*.csv
+*.png
+*.wav
+
+# Log files
+*.log
+
+# Model files
+# Common extensions for saved machine learning models
+*.h5
+*.pkl
+*.model
+*.joblib
+
+# Credentials
+# Ignore environment variables and secrets
+.env
+
+# IDEs and editors
+.vscode/
+.idea/
+
+# OS-specific
+.DS_Store
