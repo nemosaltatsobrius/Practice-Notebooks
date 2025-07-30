@@ -23,7 +23,7 @@ This repository contains a collection of Jupyter Notebooks exploring various mac
 
 * **Gradient_Descent_Simple**: This notebook provides a simple implementation of gradient descent to find the minimum of a cost function.
 
-* **My_First_Notebook**: This notebook appears to be a work in progress and does not yet contain any code.
+* **My_First_Notebook**: This notebook is in progress and does not yet contain any code.
 
 * **Replace_Swear_Words**: This notebook is intended to use transformers to replace swear words in a given text. It is currently under development.
 
