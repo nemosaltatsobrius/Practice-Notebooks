@@ -7,7 +7,9 @@ This repository contains a collection of Jupyter Notebooks exploring various mac
 ```
 .
 ├── Exploring_CostFunction
+├── Face_Detection_self_tf
 ├── Gradient_Descent_Simple
+├── Image_Classification_TF
 ├── My_First_Notebook
 ├── Replace_Swear_Words
 ├── Transformers_Introduction
@@ -19,15 +21,19 @@ This repository contains a collection of Jupyter Notebooks exploring various mac
 
 ## Notebooks
 
-* **Exploring_CostFunction**: This notebook demonstrates the concept of cost functions in machine learning. It uses a linear regressor with custom cost functions (Sum of Squared Differences and Sum of Absolute Differences) to predict weather data.
+*   **Exploring_CostFunction**: Demonstrates the concept of cost functions in machine learning. It uses a linear regressor with custom cost functions (Sum of Squared Differences and Sum of Absolute Differences) to predict weather data.
 
-* **Gradient_Descent_Simple**: This notebook provides a simple implementation of gradient descent to find the minimum of a cost function.
+*   **Face_Detection_self_tf**: This project is set up for a face detection task using TensorFlow, but does not yet contain a notebook.
 
-* **My_First_Notebook**: This notebook appears to be a work in progress and does not yet contain any code.
+*   **Gradient_Descent_Simple**: Provides a simple, from-scratch implementation of the gradient descent algorithm to find the minimum of a basic quadratic function.
 
-* **Replace_Swear_Words**: This notebook is intended to use transformers to replace swear words in a given text. It is currently under development.
+*   **Image_Classification_TF**: A notebook that builds, trains, and evaluates a Convolutional Neural Network (CNN) using TensorFlow and Keras to classify images of faces as smiling or not.
 
-* **Transformers_Introduction**: This notebook provides an introduction to the Hugging Face Transformers library. It showcases various pre-trained models for tasks like sentiment analysis, image classification, and speech recognition.
+*   **My_First_Notebook**: A basic notebook that loads weather data and demonstrates simple data manipulation and plotting with Pandas and Matplotlib.
+
+*   **Replace_Swear_Words**: An incomplete notebook intended to use transformers to replace swear words in a given text.
+
+*   **Transformers_Introduction**: Provides an introduction to the Hugging Face Transformers library. It showcases various pre-trained models for tasks like sentiment analysis, image classification, and speech recognition.
 
 ## Getting Started
 
